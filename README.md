@@ -9,8 +9,8 @@ you need to have java JDK 1.8 and Maven installed for your computer
 
 ## to compile the samples
 
-mvn compile
-mvn package
+
+mvn clean package
 
 ## to run 
 
